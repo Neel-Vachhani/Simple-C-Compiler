@@ -2,13 +2,13 @@
 
 A lightweight compiler for a simplified subset of the C programming language that translates source code into x86-64 assembly language.
 
-## Overview
-
-This project implements a compiler for a "simple C" language using Lex (lexical analyzer) and Yacc (parser generator). The compiler parses C-like source code and generates corresponding x86-64 assembly code that can be assembled and linked to create executable programs.
-
 ## Repository Notice
 
 This repository serves as a documentation of the project's architecture, design decisions, and final results. While the primary codebase is not public to maintain compliance with institutional policies, a full code review can be arranged upon request through [Linkedin](https://www.linkedin.com/in/neel-vachhani/) or [Email](mailto:vachhani.neel12@gmail.com).
+
+## Overview
+
+This project implements a compiler for a "simple C" language using Lex (lexical analyzer) and Yacc (parser generator). The compiler parses C-like source code and generates corresponding x86-64 assembly code that can be assembled and linked to create executable programs.
 
 ## Tech Stack
 
